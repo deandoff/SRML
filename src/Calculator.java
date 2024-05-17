@@ -2,14 +2,6 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Stack;
 
-/*
- * made by Akhmetgaleev Islam
- * KAI 4217, 2024
- *
- *
- *
- * GIT : https://github.com/deandoff
- */
 
 public class Calculator {
 
